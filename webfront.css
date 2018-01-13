@@ -1,1 +1,16 @@
 /* place all your custom css here */
+
+
+/*
+	http://css-tricks.com/custom-scrollbars-in-webkit/
+  Copy from https://github.com/symcon/ScrollbarSkin
+*/	
+::-webkit-scrollbar {
+	width: 16px;
+	background-color: rgba(255, 255, 255, .1);
+}
+
+::-webkit-scrollbar-thumb {
+	border: 1px solid rgba(255, 255, 255, .25);
+	background-color: rgba(0, 0, 0, .05);
+}
