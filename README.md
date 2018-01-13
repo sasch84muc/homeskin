@@ -10,7 +10,7 @@
 * Styled scrollbars for Chrome/Safari/Webkit (ScrollbarSkin)
 
 ### Size
-* xxxkB
+* 1kB
 
 ### Compatibility
 Skin for IP-Symcon was developed and tested with the following version:
