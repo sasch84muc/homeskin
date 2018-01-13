@@ -1,9 +1,9 @@
 /* place all your custom css here */
 
 /*
-	Fix Height
+  Fix Height
     From 32px => 30px
-*/	
+*/
 .ipsCategory>.container .content .link>.keyboardLink, .ipsCategory>.container .content .link>.chartLink, .ipsCategory>.container .content .link>.timerLink, .ipsCategory>.container .content .link>.runLink, .ipsCategory>.container .content .link>.colorLink, .ipsCategory>.container .content .link>.enumLink {
 	background-position: 2px 4px;
 	background-repeat: no-repeat;
@@ -17,16 +17,15 @@
 }
 
 /*
-	Fix Height
+  Fix Height
     From 34px => 32px
 */	
 .ipsCategory>.container .content .visual>.enum, .ipsCategory>.container .content .visual>.selector {
 	height: 32px;
-	overflow: auto
 }
 
 /*
-	http://css-tricks.com/custom-scrollbars-in-webkit/
+  http://css-tricks.com/custom-scrollbars-in-webkit/
   Copy from https://github.com/symcon/ScrollbarSkin
 */	
 ::-webkit-scrollbar {
