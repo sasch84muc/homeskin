@@ -1,45 +1,10 @@
-/* place all your custom css here */
+/* WwxSkin - webfront.css */
 
-/*
-  Fix Height to 37px 
-*/
+/* Fix table.td height to 37px */
 .td {
     height: 37px;
 }
 
 .ipsCategory>.container .content .visual>.text {
   padding: 2px 6px;
-}
-
-/*
-.ipsCategory>.container .content .visual>.enum, .ipsCategory>.container .content .visual>.selector {
-	height: 32px;
-	overflow: auto;
-}
-
-.ipsCategory>.container .content .link>.keyboardLink, .ipsCategory>.container .content .link>.chartLink, .ipsCategory>.container .content .link>.timerLink, .ipsCategory>.container .content .link>.runLink, .ipsCategory>.container .content .link>.colorLink, .ipsCategory>.container .content .link>.enumLink {
-	background-position: 2px 4px;
-	background-repeat: no-repeat;
-	background-size: 28px;
-	display: inline-block;
-	height: 30px;
-	line-height: 36px;
-	margin-right: 3px;
-	margin-top: 0;
-	width: 32px
-}
-*/
-
-/*
-  http://css-tricks.com/custom-scrollbars-in-webkit/
-  Copy from https://github.com/symcon/ScrollbarSkin
-*/	
-::-webkit-scrollbar {
-	width: 16px;
-	background-color: rgba(255, 255, 255, .1);
-}
-
-::-webkit-scrollbar-thumb {
-	border: 1px solid rgba(255, 255, 255, .25);
-	background-color: rgba(0, 0, 0, .05);
 }
