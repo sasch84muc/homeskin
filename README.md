@@ -1,9 +1,11 @@
-# IP-Symcon Skin
-![IP-Symcon 4.x](https://img.shields.io/badge/IP--Symcon-4.x-green.svg)
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8816166" target="_blank">![Donate](https://img.shields.io/badge/Donate-Paypal-009cde.svg)</a>
+[![Version](https://img.shields.io/badge/Symcon-Webfront--Skin-red.svg)](https://www.symcon.de/service/dokumentation/entwicklerbereich/sdk-tools/sdk-skins/)
+[![Version](https://img.shields.io/badge/Symcon%20Version-4.1--5.0-blue.svg)](https://www.symcon.de/produkt/)
+[![Version](https://img.shields.io/badge/Modul%20Version-1.0.20180116-orange.svg)](https://github.com/Wilkware/WwxSkin)
+[![Version](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## WwxSkin for IP-Symcon WebFront
+
+# WwxSkin
+ WebFront Skin for IP-Symcon
 
 ### Features
 * Fix different hight of the boxes for variables
@@ -25,11 +27,8 @@ Skin for IP-Symcon was developed and tested with the following version:
 
 
 ### Developer
-* Heiko Wilknitz (@wilkware)
-* [@wilkware](https://github.com/wilkware)
-
-### Copyright
-(c) 2018 Heiko Wilknitz
+* Heiko Wilknitz ([@wilkware](https://github.com/wilkware))
 
 ### Donations
-If you'd like to support further development of IP-Symcon modules & skins, please use the donate button above.
+If you'd like to support further development of IP-Symcon modules & skins, please use the donate button below:
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8816166" target="_blank"><img src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif" border="0" /></a>
