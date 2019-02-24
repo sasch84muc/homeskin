@@ -1,9 +1,9 @@
 {
     "author": "Wilkware (@Pitti)",
-    "version": "1.0",
+    "version": "1.1",
     "compatible": 1,
-    "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/wilkware\/WwxSkin",
+    "url": "http://www.wilkware.de",
+    "git": "https://github.com/wilkware/WwxSkin",
     "icons": [
 
     ]
