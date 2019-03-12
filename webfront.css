@@ -9,5 +9,16 @@
 }
 /* Fix width for slider */
 .ipsCategory>.container .content .visual>.slider {
-  max-width: 100px;
+  max-width: 120px;
+}
+
+/* All Buttons has now a min width for better visual vertical alignment */
+.ipsCategory>.container .content .visual>.text.colored {
+  text-align: center;
+  min-width: 29px;
+}
+
+.ipsCategory>.container .content .visual>.enum>div {
+  text-align: center;
+  min-width: 29px;
 }

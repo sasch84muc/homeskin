@@ -1,6 +1,6 @@
 [![Version](https://img.shields.io/badge/Symcon-Webfront--Skin-red.svg)](https://www.symcon.de/service/dokumentation/entwicklerbereich/sdk-tools/sdk-skins/)
 [![Version](https://img.shields.io/badge/Symcon%20Version-4.1--5.1-blue.svg)](https://www.symcon.de/produkt/)
-[![Version](https://img.shields.io/badge/Skin%20Version-1.1.20190224-orange.svg)](https://github.com/Wilkware/WwxSkin)
+[![Version](https://img.shields.io/badge/Skin%20Version-1.1.20190312-orange.svg)](https://github.com/Wilkware/WwxSkin)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![StyleCI](https://github.styleci.io/repos/117355336/shield?style=flat)](https://github.styleci.io/repos/117355336)
 
@@ -9,7 +9,8 @@
 
 ### Funktionen
 * Die Höhe von Variablen ist immer gleich, unabhängig von Schaltern und Aktionen (feste Höhe)
-* Die Breite von Slidern ist auf maximal 100 Pixel festgelegt, d.h. die Darstellung ist unabhängig von der Textlänge der Varaiablen.
+* Die Breite von Slidern ist auf maximal 120 Pixel festgelegt, d.h. die Darstellung ist unabhängig von der Textlänge der Varaiablen.
+* Die Minimale Breite von Buttons ist auf 29 Pixel festgesetzt für ein besseres Spaltenlayout bei mehreren Butoons übereinander.
 
 ### Größe
 * <1kB
@@ -30,6 +31,10 @@ oder <br />
 5. Click button "OK"
 
 ### Versionshistorie
+
+v1.1.20190312
+* _NEW_: Minimale Breite für Buttons
+* _FIX_: Maximale Breite von Slider auf 120 Pixel heraufgesetzt
 
 v1.1.20190224
 * _NEU_: Feste Breite für Slider hinzugefügt

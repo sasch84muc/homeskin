@@ -1,6 +1,6 @@
 [![Version](https://img.shields.io/badge/Symcon-Webfront--Skin-red.svg)](https://www.symcon.de/service/dokumentation/entwicklerbereich/sdk-tools/sdk-skins/)
 [![Version](https://img.shields.io/badge/Symcon%20Version-4.1--5.1-blue.svg)](https://www.symcon.de/produkt/)
-[![Version](https://img.shields.io/badge/Skin%20Version-1.1.20190224-orange.svg)](https://github.com/Wilkware/WwxSkin)
+[![Version](https://img.shields.io/badge/Skin%20Version-1.1.20190312-orange.svg)](https://github.com/Wilkware/WwxSkin)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![StyleCI](https://github.styleci.io/repos/117355336/shield?style=flat)](https://github.styleci.io/repos/117355336)
 
@@ -9,7 +9,8 @@
 
 ### Features
 * Fix different hight of the boxes for variables
-* Fix width of slider to max 100 pixel
+* Set width of slider to max 120 pixel to be independently form text length
+* Set the min width of a button to 29 pixel for a better grid layout 
 
 ### Size
 * <1kB
@@ -31,8 +32,12 @@ or <br />
 
 ### Changelog
 
+v1.1.20190312
+* _NEW_: Add min width of a button
+* _FIX_: Expand max width for slider form 100 to 120 pixel
+
 v1.1.20190224
-* _NEW_: Add fix width for slider
+* _NEW_: Add max width for slider
 
 v1.0.20180116
 * _NEW_: Initial version
