@@ -1,6 +1,6 @@
 [![Version](https://img.shields.io/badge/Symcon-Webfront--Skin-red.svg)](https://www.symcon.de/service/dokumentation/entwicklerbereich/sdk-tools/sdk-skins/)
 [![Version](https://img.shields.io/badge/Symcon%20Version-4.1--5.1-blue.svg)](https://www.symcon.de/produkt/)
-[![Version](https://img.shields.io/badge/Skin%20Version-1.1.20190312-orange.svg)](https://github.com/Wilkware/WwxSkin)
+[![Version](https://img.shields.io/badge/Skin%20Version-1.1.20190404-orange.svg)](https://github.com/Wilkware/WwxSkin)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![StyleCI](https://github.styleci.io/repos/117355336/shield?style=flat)](https://github.styleci.io/repos/117355336)
 
@@ -31,6 +31,10 @@ or <br />
 5. Click add and enter this URL: https://github.com/wilkware/WwxSkin
 
 ### Changelog
+
+v1.2.20190404
+* _NEW_: Scrollbars app like for Chrome Browser (PC only) 
+* _NEW_: Add Skin Logo Icon (WwxLogo)
 
 v1.1.20190312
 * _NEW_: Add min width of a button

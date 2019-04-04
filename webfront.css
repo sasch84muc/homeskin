@@ -22,3 +22,29 @@
   text-align: center;
   min-width: 29px;
 }
+
+/* app-like scrollbar only for google chrome (pc) */
+@supports (-webkit-appearance:none) and (not (overflow:-webkit-marquee))
+    and (not (-ms-ime-align:auto)) and (not (-moz-appearance:none)) {
+  ::-webkit-scrollbar {
+      width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(13,23,36,0.3);
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: transparent;
+    border: solid 3px transparent;
+  }
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background: rgba(19,21,27,0.8);
+    box-shadow: inset 0 0 10px 10px #0a101a;
+    border: solid 1px rgba(255,255,255,0.25);
+   }
+  ::-webkit-scrollbar-thumb:window-inactive {
+        background: rgba(0,128,255,0.4);
+  }
+}
