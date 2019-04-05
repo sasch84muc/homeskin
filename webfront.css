@@ -1,4 +1,7 @@
 /* WwxSkin - webfront.css */
+.ipsLogin>.logo { 
+    background-image: url(./img/logo.wwx.svg); 
+}
 
 /* Fix table.td height to 37px */
 .td {
